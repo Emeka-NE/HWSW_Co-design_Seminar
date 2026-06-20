@@ -1,5 +1,4 @@
-# ACO HLS Scheduling
-## High-Level Synthesis with Ant Colony Optimization Scheduling
+# High-Level Synthesis with Ant Colony Optimization Scheduling
 
 **Student:** Nnaemeka Nnachi-Egwu  
 **Program:** Electronic Engineering  
